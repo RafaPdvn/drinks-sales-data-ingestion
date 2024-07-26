@@ -1,0 +1,10 @@
+<settings>
+  <mirrors>
+    <mirror>
+      <id>artifactory-globoi</id>
+      <name>Globo artifactory repository</name>
+      <url>https://artifactory.globoi.com/artifactory/libs-release</url>
+      <mirrorOf>central</mirrorOf>
+    </mirror>
+  </mirrors>
+</settings>
